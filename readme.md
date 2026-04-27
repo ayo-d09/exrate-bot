@@ -70,8 +70,8 @@ docker-compose up --build
 - Grafana → `http://localhost:3000`
 
 ## Environment Variables
-KEY=your-exchangerate-api-key
-TELEGRAM_TOKEN=your-telegram-bot-token
+- KEY=your-exchangerate-api-key
+- TELEGRAM_TOKEN=your-telegram-bot-token
 
 ## CI/CD
 Every push to `main` automatically deploys to Fly.io via GitHub Actions.
