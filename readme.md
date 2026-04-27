@@ -48,8 +48,8 @@ exrate-bot/
 ├── .gitignore
 ├── README.md
 └── .github/
-└── workflows/
-└── fly-deploy.yml
+  └── workflows/
+    └── fly-deploy.yml
 ```
 
 
