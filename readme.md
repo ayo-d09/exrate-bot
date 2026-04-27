@@ -87,6 +87,3 @@ docker-compose up --build
 ## CI/CD
 Every push to `main` automatically deploys to Fly.io via GitHub Actions.
 <img width="1440" height="815" alt="Screenshot 2026-04-27 at 09 24 55" src="https://github.com/user-attachments/assets/6d29dfb0-f21f-4920-a0ac-65f1754c79a7" />
-
-
-
