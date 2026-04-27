@@ -27,7 +27,7 @@ Search **@Get_ExRate_Bot** on Telegram and send (for example):
 ## Stack
 
 - Python / Flask
-- Telegram Bot API
+- Telegram Bot API(BotFather)
 - ExchangeRate API
 - Prometheus + Grafana
 - Docker + Docker Compose
