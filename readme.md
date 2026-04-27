@@ -19,9 +19,9 @@ A live Telegram currency converter bot that converts currencies in real time usi
 ## Try It
 
 Search **@Get_ExRate_Bot** on Telegram and send:
-100 USD to NGN
-50 EUR to GBP
-200 GBP to JPY
+- 100 USD to NGN
+- 50 EUR to GBP
+- 200 GBP to JPY
 
 ## Stack
 
