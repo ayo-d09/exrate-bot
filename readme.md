@@ -23,6 +23,7 @@ Search **@Get_ExRate_Bot** on Telegram and send (for example):
 - 50 EUR to GBP
 - 200 GBP to JPY
 
+
 ## Stack
 
 - Python / Flask
@@ -32,6 +33,7 @@ Search **@Get_ExRate_Bot** on Telegram and send (for example):
 - Docker + Docker Compose
 - GitHub Actions
 - Fly.io
+
 
 ## Project Structure
 ```
@@ -49,6 +51,7 @@ exrate-bot/
 └── workflows/
 └── fly-deploy.yml
 ```
+
 
 ## Run Locally
 
@@ -69,9 +72,11 @@ docker-compose up --build
 - Prometheus → `http://localhost:9090`
 - Grafana → `http://localhost:3000`
 
+
 ## Environment Variables
 - KEY=your-exchangerate-api-key
 - TELEGRAM_TOKEN=your-telegram-bot-token
+
 
 ## CI/CD
 Every push to `main` automatically deploys to Fly.io via GitHub Actions.
