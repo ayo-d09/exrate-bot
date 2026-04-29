@@ -2,7 +2,7 @@
 
 A live Telegram currency converter bot that converts currencies in real time using the ExchangeRate API.
 
-> This project is based on https://github.com/rajatrawal/currency-converter-bot by (https://github.com/rajatrawal). It has been extended with Prometheus monitoring, Grafana dashboards, Docker Compose, and a CI/CD pipeline.
+> This project is based on https://github.com/rajatrawal/currency-converter-bot by (https://github.com/rajatrawal). It has been extended with Prometheus monitoring, Grafana dashboard, Docker Compose, and a CI/CD pipeline.
 
 
 ## Features
